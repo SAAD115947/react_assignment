@@ -30,6 +30,6 @@ npm install react-router-dom firebase
 npm start
 ```
 
-Add your Firebase config in `src/firebase.js` and enable Email/Password sign-in in the Firebase Console.
+
 
 Open http://localhost:3000
