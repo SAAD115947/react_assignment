@@ -1,6 +1,5 @@
 # React Routing & Firebase Authentication
-
-**Student ID:** C243085
+<h2><mark><strong>Student ID: C243085</strong></mark></h2>
 **Course:** Tools & Technologies for Internet Programming
 
 A simple React app with React Router, Firebase Email/Password Authentication, and protected routes.
